@@ -1,0 +1,5 @@
+Summary of all the files in this folder.
+
+We did basics of python including operators, type casting. Then we learnt taking input from the user and using conditions and loops on it.
+
+Also created a mini project of a countdown from 10 to 1 for New Year.
